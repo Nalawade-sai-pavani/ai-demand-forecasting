@@ -55,3 +55,4 @@ Computer Science and Engineering (AI & ML)
 📌 Project Status
 
 Planning and development.
+Live Demo : https://ai-demand-forecasting-x5bxsjxmd3fnttcj5irvrf.streamlit.app/
